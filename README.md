@@ -1,2 +1,2 @@
 # pythonProjects
-Repositório destinado para projetos em Python
+Repositório destinado para projetos em Python.
